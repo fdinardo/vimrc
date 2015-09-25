@@ -119,17 +119,17 @@ endif
 
 "====================== Personal customizations =======================
 
-set bg=dark							          "Set the background style to dark
-set number							          "Line numbers are good :)
+set bg=dark                       "Set the background style to dark
+set number                        "Line numbers are good :)
 set ignorecase                    "Ignore case when searching
-set backspace=indent,eol,start		"Allow backspace ininsert mode
-set sta								
-set autoread						          "Reload files changed outside vim
-set laststatus=2					        "Show the file name at the bottom
-set mouse=a							          "Enable to using mouse in vim
-set expandtab						          "Insert spaces char instead of tab
-set tabstop=2						          "Number of space of tab
-set shiftwidth=2					        "Number of space for autondent with tab
+set backspace=indent,eol,start    "Allow backspace ininsert mode
+set sta
+set autoread                      "Reload files changed outside vim
+set laststatus=2                  "Show the file name at the bottom
+set mouse=a                       "Enable to using mouse in vim
+set expandtab                     "Insert spaces char instead of tab
+set tabstop=2                     "Number of space of tab
+set shiftwidth=2                  "Number of space for autondent with tab
 set smartindent                   "Smart Indent
 set cindent                       "cindent
 set showmatch                     "Show matching brackets when text indicator is over them
