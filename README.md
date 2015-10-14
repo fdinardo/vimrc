@@ -4,7 +4,10 @@ vimrc
 Simple vimrc configuration just to start using vim!
 
 ###Installation
-To start using this *vimrc* you need to create a vim dir in your home then copy **colors** dir into the dir just created, then you need to copy vimrc in your home and change its name in **.vimrc**
+To start using this *vimrc* you need:
+  * Create a vim dir in your `$HOME`
+  * Copy **colors** from your git to the dir just created
+  * Copy vimrc in your `$HOME` and change its name in **.vimrc**
 
 ```bash
 mkdir ~/.vim/
